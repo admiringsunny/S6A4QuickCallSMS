@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S6A4QuickCallSMS</string>
+
+    <string name="context_menu_heading">Select The Action</string>
+    <string name="option_call">Call</string>
+    <string name="option_sms">SMS</string>
+</resources>
